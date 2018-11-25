@@ -10177,7 +10177,6 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.Azure.Devices.Client >= 1.18.1",
-      "Microsoft.Azure.Devices.Shared >= 1.15.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "Newtonsoft.Json >= 11.0.2"
     ]
@@ -10189,17 +10188,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/Telemetry.csproj",
-      "projectName": "Telemetry",
-      "projectPath": "/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/Telemetry.csproj",
+      "projectUniqueName": "/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/FEDTelemetry/FEDTelemetry.csproj",
+      "projectName": "FEDTelemetry",
+      "projectPath": "/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/FEDTelemetry/FEDTelemetry.csproj",
       "packagesPath": "/Users/johnmesserly/.nuget/packages/",
-      "outputPath": "/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/obj",
+      "outputPath": "/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/FEDTelemetry/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/johnmesserly/.config/NuGet/NuGet.Config"
+        "/Users/johnmesserly/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -10223,21 +10222,16 @@
         "dependencies": {
           "Microsoft.Azure.Devices.Client": {
             "target": "Package",
-            "version": "1.18.1"
+            "version": "[1.18.1, )"
           },
-          "Microsoft.Azure.Devices.Shared": {
+          "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "1.15.1"
+            "version": "[2.1.0, )",
+            "autoReferenced": true
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "11.0.2"
-          },
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.1.0",
-            "autoReferenced": true
+            "version": "[11.0.2, )"
           }
         },
         "imports": [
