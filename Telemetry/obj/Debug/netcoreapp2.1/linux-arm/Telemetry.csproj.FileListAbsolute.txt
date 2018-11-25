@@ -1,0 +1,14 @@
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/bin/Debug/netcoreapp2.1/linux-arm/libhostpolicy.so
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/bin/Debug/netcoreapp2.1/linux-arm/libhostfxr.so
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/bin/Debug/netcoreapp2.1/linux-arm/Telemetry
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/bin/Debug/netcoreapp2.1/linux-arm/Telemetry.deps.json
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/bin/Debug/netcoreapp2.1/linux-arm/Telemetry.runtimeconfig.json
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/bin/Debug/netcoreapp2.1/linux-arm/Telemetry.runtimeconfig.dev.json
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/bin/Debug/netcoreapp2.1/linux-arm/Telemetry.dll
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/bin/Debug/netcoreapp2.1/linux-arm/Telemetry.pdb
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/obj/Debug/netcoreapp2.1/linux-arm/Telemetry.csprojAssemblyReference.cache
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/obj/Debug/netcoreapp2.1/linux-arm/Telemetry.csproj.CoreCompileInputs.cache
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/obj/Debug/netcoreapp2.1/linux-arm/Telemetry.AssemblyInfoInputs.cache
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/obj/Debug/netcoreapp2.1/linux-arm/Telemetry.AssemblyInfo.cs
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/obj/Debug/netcoreapp2.1/linux-arm/Telemetry.dll
+/Users/johnmesserly/Documents/workspace/NPM/Mouse_Feeders/Telemetry/obj/Debug/netcoreapp2.1/linux-arm/Telemetry.pdb
